@@ -1,7 +1,17 @@
 # RNPG CVE Proof-of-Concept Exploits
 A collection of proof-of-concept exploit scripts written by the team at RNPG for various CVEs.
+* [CVE-2023-41453: Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41453)
+* [CVE-2023-41452: Cross Site Request Forgery (CSRF) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41452)
+* [CVE-2023-41451: Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41451)
+* [CVE-2023-41450: PHP Code Injection Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41450)
+* [CVE-2023-41449: Server-Side Request Forgery (SSRF) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41449)
+* [CVE-2023-41448: Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41448)
+* [CVE-2023-41447: Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41447)
+* [CVE-2023-41446: Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41446)
+* [CVE-2023-41445: Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-41445)
+* [CVE-2023-38996: Arbitrary Code Execution Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-38996)
 * [CVE-2022-31787: Boolean-Based Blind SQL Injection Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-31787)
-* [CVE-2022-21786: Reflected Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-31786)
+* [CVE-2022-31786: Reflected Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-31786)
 * [CVE-2022-31788: Boolean-Based Blind SQL Injection Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-31788)
 * [CVE-2022-26980: Reflected Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2022-26980)
 * [CVE-2019-18859: Cross Site Scripting (XSS) Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2019-18859)
